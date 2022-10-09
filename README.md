@@ -1,9 +1,5 @@
 - 👋 안녕하세요 저는 곽민우라고 합니다.
-- 👀 현재 11마리의 낭만고양이에서 개발자를 맡게 되었습니다.
-- 🌱 PHP 위주로 업무 중에 있으며 프론트 쪽으로는 자바스크립트와 파생된 프레임워크에도 관심을 가지고 있습니다.
+- 👀 현재 두꺼비세상에서 개발자를 하고 있습니다.
+- 🌱 PHP로 만든 Codeigniter4라는 프레임워크를 주로 사용하고 있으나 갑작스레 나간 프론트 개발자를 잠시나마 대체하고자 React 공부도 진행하고 있습니다.
+- 이렇듯 필요하다면 무엇이든 배울 생각이 있고, 배움을 좋아하는 편입니다. 앞으로는 PHP의 LARAVEL이나 JAVA Spring까지 모두 공부 예정입니다.
 - 📫 연락은 harrykwak@kakao.com으로 메일부탁드립니다.
-
-<!---
-harrykwak95/harrykwak95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
